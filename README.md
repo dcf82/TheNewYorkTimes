@@ -6,4 +6,10 @@ This is a simple application that consumes the Restful Web Service for The New Y
 - You are able to see the full details of each new when you make a click on it, a new WebView is opened.
 - Full support for Phones & Tablets (Landscape mode is supported by tablets with a different layout structure).
 - SQLite Database is implemented to catch the news during the navigation, so the info is never lost.
-- Image storage is supported also, everything is downloaded and stored in the device so in this way the performance(navigation) is kept. 
+- Image storage is supported also, everything is downloaded and stored in the device so in this way the performance(navigation) is kept.
+
+# Main
+![](https://github.com/dcf82/TheNewYorkTimes/blob/master/main.png)
+
+# Add new games
+![](https://github.com/dcf82/TheNewYorkTimes/blob/master/detail.png)
