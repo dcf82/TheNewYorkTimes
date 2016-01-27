@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">The NYT News</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_item_list">New York Times</string>
+    <string name="title_item_detail">New Details</string>
+    <string name="empty_items">Loading News or \nSwipe Down to Load News</string>
+    <string name="network_error">Please verify that your network connexion is working and try
+        again.</string>
+</resources>
